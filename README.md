@@ -1,6 +1,7 @@
 # nodejs_mysql_auth
 create table in mysql
-fields are=
+fields are
+
 id-int-primarykey-autoincrement,
 
 name-text,
